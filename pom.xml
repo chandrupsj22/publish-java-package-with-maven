@@ -7,6 +7,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>java-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <extension>jar</extension>
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
@@ -22,7 +23,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/chandrupsj22/publish-java-package-with-maven</url>
+      <url>https://maven.pkg.github.com/chandrupsj22/publish-java-package-with-maven/com.mycompany.app/java-maven/1.0-SNAPSHOT/java-maven-1.0-SNAPSHOT.jar</url>
     </repository>
   </distributionManagement>
 
