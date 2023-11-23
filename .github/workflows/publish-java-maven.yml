@@ -17,4 +17,4 @@ jobs:
           mvn clean package
           mvn deploy
         env:
-          GITHUB_TOKEN: ${{ secrets.JAVA_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.JAVA_TOKEN }}  
